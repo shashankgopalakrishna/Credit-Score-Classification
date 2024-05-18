@@ -1,2 +1,3 @@
 # Credit-Score-Classification
- Credit Score Classification
+
+The classification of the credit score is the crucial part in the financial organizations to calculate the individuals credit worthiness. The credit score evaluation of individual creditworthiness used by the financial banking sectors in determining to sanction the loan amount eligibility for customers. The main idea of this classification lies in its ability to condense complex financial histories into actionable information, enabling institutions to predict the creditworthiness of individuals with accuracy. By analyzing past repayment behaviors and financial activities, credit scoring systems facilitate the partition of customers into distinct categories, ranging from highly reliable to those presenting elevated risks. These categories, labeled as ”good,” ”standard,” and ”poor,” act as guiding markers for lenders, helping them make wise lending decisions.
