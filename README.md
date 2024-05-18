@@ -26,6 +26,7 @@ F1-score: 0.37989784449882563<br/>
 • The decision tree classifier outperformed linear and logistic regression, achieving an accuracy of 76.32% with balanced precision, recall, and F1-score. It effectively captured nonlinear relationships between predictors and the target variable.<br/>
 • Decision trees are non-linear models that partition the feature space into distinct regions based on the predictors’ values. They are capable of capturing complex decision boundaries and interactions among features.<br/>
 • The decision tree classifier shows promise for credit card classification tasks. Further optimization and finetuning of hyperparameters could potentially enhance its performance even more.<br/>
+
 Accuracy: 0.762497867258147<br/>
 Precision: 0.7645315214212544<br/>
 Recall: 0.762497867258147<br/>
@@ -36,6 +37,7 @@ F1-score: 0.7615683460773391<br/>
 • Random forests are an ensemble of decision trees that aggregate predictions from multiple trees to improve generalization and reduce over-fitting. They are robust against
 noise and outliers and can handle high-dimensional data well.<br/>
 • The random forest classifier offers a reliable and accurate solution for credit card classification tasks. Further experimentation with different ensemble methods or model architectures could potentially yield even better results.<br/>
+
 Accuracy: 0.7417676164477052<br/>
 Precision: 0.7417951435630697<br/>
 Recall: 0.7417676164477052<br/>
@@ -48,8 +50,8 @@ b) Application: These predictions can assist in assessing the creditworthiness o
 into different credit score categories, financial institutions can tailor their lending practices and mitigate potential default risks.<br/>
 c) Recommendation: It’s important to monitor the models’ performance over time and update them as needed to ensure accurate predictions and effective risk management. Regular evaluation and validation of the models against new data will help maintain their predictive accuracy and reliability in real-world applications.<br/>
 
-<img src="https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d" alt="drawing" width="250"/>
-![image](https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d)
+<img src="![image](https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d)" alt="drawing" width="350"/>
+
 Fig. 1. Predicted Credit score on test.csv
 
 ## CONCLUSION
