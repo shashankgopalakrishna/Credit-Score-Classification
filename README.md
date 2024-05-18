@@ -50,7 +50,7 @@ b) Application: These predictions can assist in assessing the creditworthiness o
 into different credit score categories, financial institutions can tailor their lending practices and mitigate potential default risks.<br/>
 c) Recommendation: It’s important to monitor the models’ performance over time and update them as needed to ensure accurate predictions and effective risk management. Regular evaluation and validation of the models against new data will help maintain their predictive accuracy and reliability in real-world applications.<br/>
 
-<img src="![image](https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d)" alt="drawing" width="350"/>
+<img src="https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d" alt="drawing" width="350"/>
 
 Fig. 1. Predicted Credit score on test.csv
 
