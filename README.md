@@ -51,7 +51,6 @@ into different credit score categories, financial institutions can tailor their 
 c) Recommendation: It’s important to monitor the models’ performance over time and update them as needed to ensure accurate predictions and effective risk management. Regular evaluation and validation of the models against new data will help maintain their predictive accuracy and reliability in real-world applications.<br/>
 
 <img src="https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/92dd309c-ddb5-4b6b-a546-ed94ce59d88d" alt="prediction" width="350"/>
-
 Fig. 1. Predicted Credit score on test.csv
 
 ## CONCLUSION
@@ -63,8 +62,8 @@ predictors and the target variable.<br/>
 b) Logistic Regression model achieves an accuracy of 54.10%, indicating slightly better performance than random guessing. However, its precision, recall, and F1-score suggest that it struggles to accurately classify credit card classifications.<br/>
 c) Decision Tree Classifier outperforms linear and logistic regression, achieving an accuracy of 76.32% with balanced precision, recall, and F1-score. It effectively captures nonlinear relationships between predictors and the target variable.<br/>
 d) Random Forest Classifier performs similarly to the decision tree model, with an accuracy of 74.37% and balanced precision, recall, and F1-score. It leverages ensemble learning to make robust predictions.<br/>
-<img src="https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/10d1724e-07aa-416c-9222-74eb9cf9952e" alt="comparision" width="750"/>
 
+<img src="https://github.com/shashankgopalakrishna/Credit-Score-Classification/assets/143437355/10d1724e-07aa-416c-9222-74eb9cf9952e" alt="comparision" width="750"/>
 Fig. 2. Train and test accuracy of the models
 
 The conclusion based on the evaluation results, both the decision tree classifier and random forest classifier outperform linear and logistic regression for credit card classification. The decision tree and random forest models achieve higher accuracy and balanced precision, recall, and F1-score, indicating better overall performance. These models are suitable for predicting credit card classifications, with the decision tree model being slightly superior in terms of accuracy.<br/>
